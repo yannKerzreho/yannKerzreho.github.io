@@ -18,9 +18,9 @@ style = "github-dark"
 [params]
   author = "Yann Kerzrego"
   info = "Student in Applied Mathematics"
-  description = "John Doe's personal website"
+  description = "Personal website of Yann Kerzreho"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
+  #gravatar = "ker.yann.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -52,10 +52,10 @@ style = "github-dark"
 
 # Menu links
 [[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
+  name = "Resume"
+  weight = 3
+  url = "resume/"
 [[menu.main]]
-  name = "About"
-  weight = 2
-  url = "about/"
+  name = "Research"
+  weight = 4
+  url = "research/"
