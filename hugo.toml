@@ -1,6 +1,7 @@
 baseurl = "http://yannkerzreho.github.io/" 
 title = "Yann Kerzreho"
-theme = "hugo-coder"
+theme = ["hugo-embed-pdf-shortcode", "hugo-coder"]
+enableInlineShortcodes = true
 languagecode = "en"
 defaultcontentlanguage = "en"
 
@@ -20,13 +21,8 @@ style = "github-dark"
   info = "Student in Applied Mathematics"
   description = "Personal website of Yann Kerzreho"
   avatarurl = "images/avatar.jpg"
-  #gravatar = "ker.yann.doe@example.com"
 
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
-
-  since = 2019
+  since = 2025
 
   enableTwemoji = true
 
