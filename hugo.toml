@@ -19,9 +19,9 @@ style = "github-dark"
 [params]
   author = "Yann Kerzrego"
   info = "Student in Applied Mathematics"
-  bio = "From École Normale Supérieure Paris-Saclay in economics to Mathematics. I also like programming and start random research project."
+  bio = "From École Normale Supérieure Paris-Saclay in economics to Mathematics. I like to start random research project and vibe coding."
   description = "Personal website of Yann Kerzreho"
-  avatarurl = "avatar.jpg"
+  avatarurl = "image/avatar.png"
 
   since = 2025
 
